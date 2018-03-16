@@ -1,2 +1,3 @@
-# pytorch-practice
-My own learning notes about pytorch.
+# pytorch 练习笔记
+
+这个仓库是关于我在学习 pytorch 的过程中，参考别人的教程，自己动手实现的一些简单的结构。
